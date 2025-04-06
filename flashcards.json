@@ -1,0 +1,194 @@
+[
+    {
+        "question": "Que es el trade off?",
+        "answer": "Elegir entre dos disyuntivas con recursos limitados"
+    },
+    {
+        "question": "Que es el costo de oportunidad?",
+        "answer": "Es el valor al que se renuncia al renunciar al rechazar la mejor alternativa posible"
+    },
+    {
+        "question": "Que es un costo hundido? Que es la falacia del costo hundido?",
+        "answer": "Es el costo que independientemente de la decision no se puede recuperar. La falacia del costo hundido es cuando se consideran costos y beneficios que no varian con las consecuencias de la decision"
+    },
+    {
+        "question": "Porque se dice que la ciencia es la \"ciencia del marginalismo\"?",
+        "answer": "Debido a que toma decisiones comparando costos marginales"
+    },
+    {
+        "question": "Que regla plantea el texto para elegir una alternativa?",
+        "answer": "Si y solo si la variacion que exprimentaron los beneficios como consecuencia de elegir dicha alternativa excede a la variacion que experimentaron los costos"
+    },
+    {
+        "question": "Cual es la ecuacion de la restriccion presupuestaria?",
+        "answer": "Fuentes >= USOS"
+    },
+    {
+        "question": "El texto menciona dos observaciones sobre las restricciones presupuestarias. Expliquelas",
+        "answer": "1. Determina posiblidades de consumo del individuo. Divide entre tres opciones: canastas factibles con gasto total, con gasto parcial y canastas no factibles.                                            2. Trade-off. Por cada elemento que renuncio puedo adquirir mas de otro. Este costo de oportunidad se ve reglejado en la pendiente de la recta"
+    },
+    {
+        "question": "Donde se ve reglejado el costo de oportunidad en un grafico?",
+        "answer": "En la pendiente de la recta"
+    },
+    {
+        "question": "Si tengo cervezas en el eje Y y pizzas en el eje X. Como se consigue la pendiente?. Que pasa si el valor absoluto es mayor a uno? y si es menor?",
+        "answer": "-Ppizza/Pcerveza.  Si es >1 entonces la pizza es mas cara. Si es menor a 1 la pizza es mas barata"
+    },
+    {
+        "question": "Que es la TMT?",
+        "answer": "Es la tasa matignal de trasnformacion. Es la cantidad de un bien a la que un consumidor debe renunciar para obtener una unidad mas del otro bien. Esto viene determinado por los preios del mercado"
+    },
+    {
+        "question": "V o F. Si tengo un grafico con cervezas en el eje Y, y Pizzas en el eje X. Si cae el precios de la pizza el grafico se desplaza hacia la Izquierda",
+        "answer": "Falso"
+    },
+    {
+        "question": "Si cervezas eje Y y Pizzas eje X. Si aumenta el precio de la cerveza hacia donde se desplaza el grafico?",
+        "answer": "Ver Grafico"
+    },
+    {
+        "question": "Si tengo una curva con un corte abrupto que baja recto, ante que situacion especial me enfrento?",
+        "answer": "Un tope de compra"
+    },
+    {
+        "question": "Si la pendiente de la recta cambia en un punto, a que situacion puede estar observando?",
+        "answer": "Alguna promocion de precio por cantidad"
+    },
+    {
+        "question": "Que describe la \"funcion de utilidad\"?",
+        "answer": "describe el nivel de satisfaccion puramente personal. Le asigna un numero de felicidad a cada canasta para poder ordenarlas"
+    },
+    {
+        "question": "Que significa que las preferencias sean completas?",
+        "answer": "Que se puede elegir siempre entre dos canastas"
+    },
+    {
+        "question": "Que significa transitividad?",
+        "answer": "Si A>B y B>C -> A>C "
+    },
+    {
+        "question": "Que es la monoticdad fuerte?",
+        "answer": "mas mejor "
+    },
+    {
+        "question": "Que es la curva de indiferencia?",
+        "answer": "Curva donde se necuentran todas las canastas con el mismo nivel de utilidad"
+    },
+    {
+        "question": "Si tengo muchas curvas de indiferencia, cual es la que brinda mayor utilidad?",
+        "answer": "Aquella que se encuentre mas al noreste"
+    },
+    {
+        "question": "Como es la pendiente de las curvas de indiferencia cuando cumplen monotonicidad fuerte?",
+        "answer": "Negativa"
+    },
+    {
+        "question": "Que es la utilidad marginal decreciente?",
+        "answer": "a la cuarta hamburguesa medio que se me fueron las ganas"
+    },
+    {
+        "question": "Que es la tasa marginal de sustitucion?",
+        "answer": "Cantidad de unidades de un bien que un individuo esta dispuesto a sacrificar a cambio de una unidad adicional del otro."
+    },
+    {
+        "question": "V o F. Para que se mantenga constante el nivel de utilidad es necesario que la utilidad generada por la unidad adicional de x se compense con lo que sacrificamos de y.",
+        "answer": "Verdadero!!"
+    },
+    {
+        "question": "Que es un sutituto perfecto?",
+        "answer": "Un bien que tenga la misma utilidad que otro"
+    },
+    {
+        "question": "que son los bienes complementarios perfectos?",
+        "answer": "bienes que se venden juntos. Ej: zapatos"
+    },
+    {
+        "question": "Cuando a un consumidor le es indiferente consumir un bien \"malo\"?",
+        "answer": "Cuando es consumido junto a un bien bueno cuyo nivel de utilidad compensa el del malo. Ej:Comida de Rappi > Bolsa molesta de Rapi"
+    },
+    {
+        "question": "En que se basa la eleccion del individuo se basa en maximizar su utilidad sujeto a la restriccion presupuestaria",
+        "answer": "Maximizar su utilidad"
+    },
+    {
+        "question": "Que pasa cuando la TMT == TMS?",
+        "answer": "Se maximiza la utilidad"
+    },
+    {
+        "question": "Que indica una curva muy pronunciada?",
+        "answer": "preferencia por un bien"
+    },
+    {
+        "question": "Que se debe hacer cuand el TMS supera al TMT?",
+        "answer": "Intercambiar bienes hasta que se igualen"
+    },
+    {
+        "question": "Como construimos la demanda del mercado?",
+        "answer": "Sumando las cantidades demandadas individuales para cada precio"
+    },
+    {
+        "question": "Que muestra la Curva de Demanda?",
+        "answer": "Muestra la max cantidad que los consumidores estan dispuestas a comprar para cada bien y los maximos precion a pagar por cada cantidad de bienes"
+    },
+    {
+        "question": "Nombra que afecta la demanda",
+        "answer": "Ingreso, precio de sustitutos, precio de complementarios, numero de compradore, gustos y preferencias de consumidores, shocks externos"
+    },
+    {
+        "question": "Que pasa si aumennta el preico de un bien?",
+        "answer": "Disminuye la cantidad demandada"
+    },
+    {
+        "question": "Que pasa si aumento el precio de un bien complementario?",
+        "answer": "Cae la demanda del bien main"
+    },
+    {
+        "question": "Bajo que factor se puede enmarcar la pandemia en su efecto contra la demanda?",
+        "answer": "Shock externo"
+    },
+    {
+        "question": "V.F -> La empresas siempre intentan maximizar beneficio economico",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Que es el beneficio contable?",
+        "answer": "Es la diferencia entre los ingresos obtenidos y los gastos incurridos"
+    },
+    {
+        "question": "Cual es la diferencia entre beneficio contable y economico?",
+        "answer": "Que el economico tambien incluye los costos de oprtunidad"
+    },
+    {
+        "question": "De que nos sirve el beneficio Economico?",
+        "answer": "Nos dice si es rentable invertir en algo"
+    },
+    {
+        "question": "Que es el beneficio marginal?",
+        "answer": "El beneficio marginal hace referencia a cuanto aumenta el beneficio de la empresa cuando la produccion crece en una unidad"
+    },
+    {
+        "question": "Que es el ingreso mariginal?",
+        "answer": "Es el total adicional que se obtiene al vender una unidad mas"
+    },
+    {
+        "question": "Que es el costo marginal?",
+        "answer": "El costo de producir una unidad mas"
+    },
+    {
+        "question": "Que puede determinar mi decision de producir mas o menos bienes?",
+        "answer": "Condiciones de demanda, Caracteristicas del mercado, Costo de produccion"
+    },
+    {
+        "question": "A que se lo denomina Insumo?",
+        "answer": "Bien necesario para producir otro"
+    },
+    {
+        "question": "En que se puede descomponer el Costo Total?",
+        "answer": "En costos fijos y variables"
+    },
+    {
+        "question": "Cual es la diferencia entre costos variables y costos fijos?",
+        "answer": "Los Costos Variables dependen de la cantidad que produzcco"
+    }
+]
