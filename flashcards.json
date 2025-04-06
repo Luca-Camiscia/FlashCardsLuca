@@ -191,316 +191,297 @@
         "question": "Cual es la diferencia entre costos variables y costos fijos?",
         "answer": "Los Costos Variables dependen de la cantidad que produzcco"
     },
-
-
-
     {
-        "comment" : "ACA ARRANCAN LAS DE GPT",
+        "comment": "ACA ARRANCAN LAS DE GPT",
         "question": "¿Cómo definen los autores la economía en el capítulo 1?",
         "answer": "La economía se define como el uso eficiente de recursos escasos para satisfacer necesidades ilimitadas."
-      },
-      {
-        "question": "¿Qué funciones realiza un economista según este capítulo?",
+    },
+    {
+        "question": "¿Qué funciones realiza un economista?",
         "answer": "Un economista analiza, explica y predice la asignación de recursos, evaluando cómo se toman decisiones en producción y consumo."
-      },
-      {
+    },
+    {
         "question": "¿Qué es un modelo económico?",
         "answer": "Es una representación simplificada de la realidad que permite comprender y predecir comportamientos económicos."
-      },
-      {
+    },
+    {
         "question": "¿En qué se diferencian la economía positiva y la normativa?",
         "answer": "La economía positiva describe hechos y relaciones en la realidad, mientras que la normativa emite juicios sobre lo que debería ser."
-      },
-      {
+    },
+    {
         "question": "¿Qué diferencia existe entre equilibrio parcial y equilibrio general?",
         "answer": "El equilibrio parcial se analiza en un solo mercado, mientras que el equilibrio general considera las interrelaciones entre múltiples mercados."
-      },
-      {
+    },
+    {
         "question": "¿Cuál es la función de los gráficos en el análisis económico?",
         "answer": "Los gráficos permiten visualizar y comprender relaciones teóricas y empíricas, facilitando la interpretación de datos."
-      },
-      {
+    },
+    {
         "question": "¿Qué diferencia hay entre gráficos teóricos y empíricos?",
         "answer": "Los gráficos teóricos ilustran conceptos abstractos, mientras que los empíricos muestran datos reales y observados."
-      },
-      {
+    },
+    {
         "question": "¿Por qué es importante identificar problemas en los datos?",
         "answer": "Identificar problemas ayuda a reconocer errores o sesgos, mejorando la validez y la interpretación del análisis."
-      },
-      {
+    },
+    {
         "question": "¿Qué se debe considerar al presentar datos en un gráfico?",
         "answer": "Es fundamental presentarlos de forma clara y precisa, resaltando relaciones, tendencias y evitando confusiones."
-      },
-      {
+    },
+    {
         "question": "¿Qué es una falacia en el contexto del razonamiento económico?",
         "answer": "Es un error lógico que conduce a conclusiones erróneas al fallar en la correcta relación entre causa y efecto."
-      },
-      {
+    },
+    {
         "question": "¿Qué implica la 'negación del antecedente'?",
         "answer": "Es asumir que la ausencia de una causa implica necesariamente la ausencia de su efecto, lo cual es un error lógico."
-      },
-      {
+    },
+    {
         "question": "¿En qué consiste la 'afirmación del consecuente'?",
         "answer": "Es el error de asumir que, dado que se observa un efecto, debe haberse producido una causa específica."
-      },
-      {
+    },
+    {
         "question": "¿Qué es la falacia de la composición?",
         "answer": "Consiste en asumir que lo que es cierto para las partes es necesariamente cierto para el todo."
-      },
-      {
+    },
+    {
         "question": "¿Cómo afectan las falacias al análisis económico?",
         "answer": "Distorsionan el razonamiento y pueden llevar a conclusiones poco fundamentadas o erróneas."
-      },
-      {
+    },
+    {
         "question": "¿Qué es la econometría según el capítulo 4?",
         "answer": "Es la aplicación de métodos estadísticos para probar teorías y estimar relaciones económicas."
-      },
-      {
+    },
+    {
         "question": "¿Qué problemas pueden surgir por la omisión de variables relevantes?",
         "answer": "La omisión de variables puede sesgar los resultados y conducir a interpretaciones erróneas de las relaciones causales."
-      },
-      {
+    },
+    {
         "question": "¿Cómo se aborda el problema de la causalidad en econometría?",
         "answer": "Se emplean estrategias experimentales y cuasiexperimentales para identificar y aislar relaciones causales."
-      },
-      {
+    },
+    {
         "question": "¿Cuál es el objetivo principal de testear hipótesis en economía?",
         "answer": "Validar teorías y comprender de forma empírica las relaciones entre variables económicas."
-      },
-      {
+    },
+    {
         "question": "¿Qué diferencia existe entre un experimento y un cuasiexperimento?",
         "answer": "Un experimento cuenta con asignación aleatoria, mientras que un cuasiexperimento se basa en situaciones naturales o políticas sin asignación aleatoria."
-      },
-      {
+    },
+    {
         "question": "¿Qué significa 'trade-off' en economía?",
         "answer": "Implica que al elegir una opción, se renuncia a otra debido a la limitación de recursos."
-      },
-      {
-        "question": "¿Qué es el costo de oportunidad?",
-        "answer": "Es el valor de la mejor alternativa sacrificada al tomar una decisión."
-      },
-      {
+    },
+    {
         "question": "¿Cómo se relaciona la escasez con la elección individual?",
         "answer": "La escasez obliga a priorizar alternativas, haciendo que cada decisión implique un sacrificio."
-      },
-      {
+    },
+    {
         "question": "¿Por qué es fundamental entender los trade-offs en la toma de decisiones?",
         "answer": "Porque permite evaluar correctamente las implicancias y beneficios de cada opción frente a los recursos limitados."
-      },
-      {
+    },
+    {
         "question": "¿Qué es la restricción presupuestaria?",
         "answer": "Es la limitación que enfrentan los consumidores por sus ingresos y los precios de los bienes, determinando sus opciones de consumo."
-      },
-      {
+    },
+    {
         "question": "¿Qué representa la ecuación de la restricción presupuestaria?",
         "answer": "Relación entre el ingreso disponible, los precios de los bienes y las cantidades que se pueden adquirir."
-      },
-      {
+    },
+    {
         "question": "¿Cómo afecta un cambio en el precio de un bien a la restricción presupuestaria?",
         "answer": "Modifica la pendiente de la restricción, alterando las cantidades máximas que se pueden consumir."
-      },
-      {
+    },
+    {
         "question": "¿Qué sucede cuando varía el ingreso del consumidor?",
         "answer": "La restricción presupuestaria se desplaza, ampliando o reduciendo las posibilidades de consumo."
-      },
-      {
+    },
+    {
         "question": "¿Qué es la función de utilidad?",
         "answer": "Es una representación numérica que refleja las preferencias del consumidor respecto a diferentes combinaciones de bienes."
-      },
-      {
+    },
+    {
         "question": "¿Qué representan las curvas de indiferencia?",
         "answer": "Son gráficos que muestran todas las combinaciones de bienes que proporcionan el mismo nivel de satisfacción al consumidor."
-      },
-      {
-        "question": "¿Qué significa la utilidad marginal decreciente?",
-        "answer": "Que cada unidad adicional de un bien aporta una satisfacción menor que la anterior."
-      },
-      {
-        "question": "¿Qué es la Tasa Marginal de Sustitución (TMS)?",
-        "answer": "Es la cantidad de un bien que un consumidor está dispuesto a sacrificar para obtener una unidad adicional de otro bien, manteniendo constante su nivel de satisfacción."
-      },
-      {
+    },
+    {
         "question": "¿Cómo se relaciona la completitud de las preferencias con la utilidad?",
         "answer": "Permite asignar un orden a todas las combinaciones de bienes, facilitando la medición y comparación de la utilidad."
-      },
-      {
+    },
+    {
         "question": "¿Cómo decide el consumidor según el capítulo 8?",
         "answer": "Elige la canasta que maximiza su utilidad, dados sus ingresos y los precios de los bienes."
-      },
-      {
+    },
+    {
         "question": "¿Qué son los efectos ingreso y sustitución?",
         "answer": "El efecto ingreso refleja cambios en la demanda por variaciones en el poder adquisitivo, mientras que el efecto sustitución se debe a cambios en los precios relativos de los bienes."
-      },
-      {
+    },
+    {
         "question": "¿Qué representa la curva de demanda individual?",
         "answer": "La relación entre el precio de un bien y la cantidad que un consumidor está dispuesto a comprar."
-      },
-      {
+    },
+    {
         "question": "¿Cómo responde el consumidor a un shock de ingreso?",
         "answer": "Ajusta su elección de consumo para maximizar la utilidad bajo la nueva restricción presupuestaria."
-      },
-      {
+    },
+    {
         "question": "¿Qué impacto tiene un cambio en el precio de un bien sobre la demanda individual?",
         "answer": "Modifica la cantidad demandada mediante la combinación de los efectos sustitución e ingreso."
-      },
-      {
+    },
+    {
         "question": "¿Qué implica el problema consumo-ocio?",
         "answer": "Es la decisión de cómo distribuir el tiempo entre trabajo (que genera ingresos) y ocio (que brinda satisfacción directa)."
-      },
-      {
+    },
+    {
         "question": "¿Cómo se determina el equilibrio en el problema consumo-ocio?",
         "answer": "Mediante la maximización de la utilidad, encontrando el balance óptimo entre el disfrute del ocio y el consumo financiado por el trabajo."
-      },
-      {
+    },
+    {
         "question": "¿Qué efecto tiene un aumento en el salario sobre la decisión de ocio?",
         "answer": "Puede incentivar a trabajar más (efecto sustitución) o a trabajar menos (efecto ingreso), según la situación del individuo."
-      },
-      {
+    },
+    {
         "question": "¿Cómo se descompone el efecto total de un cambio en el salario?",
         "answer": "En el efecto sustitución, que incita a trabajar más, y el efecto ingreso, que puede llevar a disfrutar de más ocio."
-      },
-      {
+    },
+    {
         "question": "¿Qué sorpresa se discute acerca de la oferta de trabajo a largo plazo?",
         "answer": "Que la relación entre el salario y las horas trabajadas puede invertirse, evidenciando la complejidad de las decisiones laborales."
-      },
-      {
+    },
+    {
         "question": "¿Cómo se pasa de la curva de demanda individual a la curva de demanda del mercado?",
         "answer": "Agregando las demandas individuales de todos los consumidores que participan en el mercado."
-      },
-      {
+    },
+    {
         "question": "¿Qué factores afectan la función de demanda?",
         "answer": "El precio, ingreso, gustos, expectativas y precios de bienes sustitutos o complementarios."
-      },
-      {
+    },
+    {
         "question": "¿Qué representa la curva de demanda de mercado?",
         "answer": "La relación entre el precio de un bien y la cantidad total demandada por todos los consumidores."
-      },
-      {
+    },
+    {
         "question": "¿Por qué es importante entender la construcción de la demanda?",
         "answer": "Porque permite analizar cómo reaccionará el mercado ante cambios en variables económicas y de comportamiento."
-      },
-      {
+    },
+    {
         "question": "¿Cuál es el objetivo principal de una empresa según el capítulo 11?",
         "answer": "Maximizar el beneficio económico."
-      },
-      {
+    },
+    {
         "question": "¿Qué decisiones toma la empresa para alcanzar su objetivo?",
         "answer": "Decide sobre producción, precios y asignación de recursos, buscando siempre la opción que genere mayores beneficios."
-      },
-      {
+    },
+    {
         "question": "¿Cómo se determinan los incentivos internos en la empresa?",
         "answer": "Comparando los costos y beneficios de diversas alternativas productivas para optimizar la toma de decisiones."
-      },
-      {
+    },
+    {
         "question": "¿Qué es la función de producción?",
         "answer": "Es la relación que muestra cómo se transforman los insumos en output o productos."
-      },
-      {
+    },
+    {
         "question": "¿Cuál es la diferencia entre producto medio y producto marginal?",
         "answer": "El producto medio es la producción por unidad de insumo, mientras que el marginal es el incremento en producción al agregar una unidad extra de insumo."
-      },
-      {
+    },
+    {
         "question": "¿Cómo se caracteriza la función de producción en el corto plazo?",
         "answer": "Presenta rendimientos variables y se observa la ley de rendimientos decrecientes al aumentar los insumos."
-      },
-      {
+    },
+    {
         "question": "¿Qué sucede en el largo plazo según el análisis de la producción?",
         "answer": "Las empresas pueden ajustar todos sus insumos, modificando la escala de producción y mejorando la eficiencia."
-      },
-      {
+    },
+    {
         "question": "¿Qué diferencia existe entre costo fijo y costo variable?",
         "answer": "El costo fijo no varía con el nivel de producción, mientras que el costo variable aumenta o disminuye conforme se produce más o menos."
-      },
-      {
-        "question": "¿Qué es el costo marginal?",
-        "answer": "Es el incremento en el costo total que implica producir una unidad adicional."
-      },
-      {
+    },
+    {
         "question": "¿Cómo se calcula el costo medio total?",
         "answer": "Dividiendo el costo total entre la cantidad de unidades producidas."
-      },
-      {
+    },
+    {
         "question": "¿Qué indica la estructura de costos de corto plazo?",
         "answer": "La interacción entre costos fijos y variables y su influencia en la producción en el corto plazo."
-      },
-      {
+    },
+    {
         "question": "¿Qué se analiza en la estructura de costos a largo plazo?",
         "answer": "La capacidad de ajustar todos los insumos y la escala de producción para alcanzar eficiencia en costos."
-      },
-      {
+    },
+    {
         "question": "¿Cómo se construye la curva de oferta del mercado?",
         "answer": "Agregando las curvas de oferta individuales de todas las empresas que participan en el mercado."
-      },
-      {
+    },
+    {
         "question": "¿Qué factores pueden afectar la función de oferta?",
         "answer": "Los costos de producción, avances tecnológicos, precios de insumos y políticas regulatorias."
-      },
-      {
+    },
+    {
         "question": "¿Qué papel juega la oferta individual en la determinación del mercado?",
         "answer": "Cada empresa ajusta su oferta según sus condiciones, y en conjunto determinan la oferta global del mercado."
-      },
-      {
+    },
+    {
         "question": "¿Qué es el equilibrio de mercado?",
         "answer": "Es el punto en que la cantidad demandada iguala a la cantidad ofrecida, determinando un precio de equilibrio."
-      },
-      {
+    },
+    {
         "question": "¿Cómo se alcanza el equilibrio en el mercado?",
         "answer": "A través de la interacción entre oferta y demanda, que ajusta precios y cantidades hasta que se igualan."
-      },
-      {
+    },
+    {
         "question": "¿Qué ocurre cuando se produce un cambio en el equilibrio?",
         "answer": "Se generan desequilibrios temporales que, al ajustar precios, llevan al mercado a un nuevo equilibrio."
-      },
-      {
+    },
+    {
         "question": "¿Qué mide la elasticidad precio de la demanda?",
         "answer": "La sensibilidad de la cantidad demandada ante cambios en el precio de un bien."
-      },
-      {
+    },
+    {
         "question": "¿Cuáles son los factores que determinan la elasticidad de la demanda?",
         "answer": "La disponibilidad de sustitutos, la proporción del ingreso gastada en el bien y el horizonte temporal de ajuste."
-      },
-      {
+    },
+    {
         "question": "¿Qué es la elasticidad punto medio?",
         "answer": "Una medida que utiliza promedios de precios y cantidades para calcular la elasticidad de forma más precisa."
-      },
-      {
+    },
+    {
         "question": "¿Qué se entiende por elasticidad precio de la oferta?",
         "answer": "La respuesta de la cantidad ofrecida ante variaciones en el precio del bien."
-      },
-      {
+    },
+    {
         "question": "¿Qué diferencia hay entre elasticidad ingreso y elasticidad cruzada?",
         "answer": "La elasticidad ingreso mide cómo varía la demanda ante cambios en el ingreso, mientras que la elasticidad cruzada analiza la relación entre dos bienes (sustitutos o complementarios)."
-      },
-      {
+    },
+    {
         "question": "¿Cuál es la función del mercado en la asignación de recursos?",
         "answer": "Distribuye los recursos de manera eficiente mediante el mecanismo de precios basado en la oferta y la demanda."
-      },
-      {
+    },
+    {
         "question": "¿Qué ventaja tiene el sistema de mercado frente a la planificación centralizada?",
         "answer": "Su capacidad para adaptarse de forma descentralizada a las preferencias y cambios del entorno, asignando recursos de manera más eficiente."
-      },
-      {
+    },
+    {
         "question": "¿Qué representa la eficiencia de mercado en términos gráficos?",
         "answer": "La intersección de las curvas de oferta y demanda, que maximiza el bienestar social al igualar costos y beneficios."
-      },
-      {
+    },
+    {
         "question": "¿Qué es la caja de Edgeworth?",
         "answer": "Una herramienta gráfica que ilustra las posibles asignaciones eficientes entre dos agentes económicos."
-      },
-      {
+    },
+    {
         "question": "¿Qué significa tener ventaja comparativa?",
         "answer": "Es la capacidad de producir un bien a un costo de oportunidad menor en comparación con otros productores o países."
-      },
-      {
+    },
+    {
         "question": "¿Qué ilustra el modelo ricardiano simple?",
         "answer": "Que, mediante la especialización y el intercambio, todos los participantes pueden beneficiarse del comercio, aun cuando uno sea menos eficiente en todos los productos."
-      },
-      {
+    },
+    {
         "question": "¿Cuáles son los beneficios de la especialización en el comercio?",
         "answer": "Permite a cada país concentrarse en lo que produce mejor, incrementando la eficiencia y el bienestar global a través de un intercambio mutuamente beneficioso."
-      },
-      {
+    },
+    {
         "question": "¿Cómo se relaciona la globalización con las ganancias del comercio?",
         "answer": "La globalización amplía los mercados y las oportunidades de especialización, aumentando los beneficios del intercambio comercial entre países."
-      }
+    }
 ]
