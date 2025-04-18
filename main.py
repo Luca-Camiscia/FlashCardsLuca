@@ -2,7 +2,7 @@ import json
 import random
 
 # Archivo para guardar las flashcards
-FILE_NAME = "flashcards.json"
+FILE_NAME = "flashcards_Economia.json"
 
 # Cargar flashcards desde el archivo
 def load_flashcards():

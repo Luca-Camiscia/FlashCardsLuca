@@ -1,0 +1,535 @@
+[
+    {
+        "question": "Que es el trade off?",
+        "answer": "Elegir entre dos disyuntivas con recursos limitados"
+    },
+    {
+        "question": "Que es el costo de oportunidad?",
+        "answer": "Es el valor al que se renuncia al renunciar al rechazar la mejor alternativa posible"
+    },
+    {
+        "question": "Que es un costo hundido? Que es la falacia del costo hundido?",
+        "answer": "Es el costo que independientemente de la decision no se puede recuperar. La falacia del costo hundido es cuando se consideran costos y beneficios que no varian con las consecuencias de la decision"
+    },
+    {
+        "question": "Porque se dice que la ciencia es la \"ciencia del marginalismo\"?",
+        "answer": "Debido a que toma decisiones comparando costos marginales"
+    },
+    {
+        "question": "Que regla plantea el texto para elegir una alternativa?",
+        "answer": "Si y solo si la variacion que exprimentaron los beneficios como consecuencia de elegir dicha alternativa excede a la variacion que experimentaron los costos"
+    },
+    {
+        "question": "Cual es la ecuacion de la restriccion presupuestaria?",
+        "answer": "Fuentes >= USOS"
+    },
+    {
+        "question": "El texto menciona dos observaciones sobre las restricciones presupuestarias. Expliquelas",
+        "answer": "1. Determina posiblidades de consumo del individuo. Divide entre tres opciones: canastas factibles con gasto total, con gasto parcial y canastas no factibles.                                            2. Trade-off. Por cada elemento que renuncio puedo adquirir mas de otro. Este costo de oportunidad se ve reglejado en la pendiente de la recta"
+    },
+    {
+        "question": "Donde se ve reglejado el costo de oportunidad en un grafico?",
+        "answer": "En la pendiente de la recta"
+    },
+    {
+        "question": "Si tengo cervezas en el eje Y y pizzas en el eje X. Como se consigue la pendiente?. Que pasa si el valor absoluto es mayor a uno? y si es menor?",
+        "answer": "-Ppizza/Pcerveza.  Si es >1 entonces la pizza es mas cara. Si es menor a 1 la pizza es mas barata"
+    },
+    {
+        "question": "Que es la TMT?",
+        "answer": "Es la tasa matignal de trasnformacion. Es la cantidad de un bien a la que un consumidor debe renunciar para obtener una unidad mas del otro bien. Esto viene determinado por los preios del mercado"
+    },
+    {
+        "question": "V o F. Si tengo un grafico con cervezas en el eje Y, y Pizzas en el eje X. Si cae el precios de la pizza el grafico se desplaza hacia la Izquierda",
+        "answer": "Falso"
+    },
+    {
+        "question": "Si cervezas eje Y y Pizzas eje X. Si aumenta el precio de la cerveza hacia donde se desplaza el grafico?",
+        "answer": "Ver Grafico"
+    },
+    {
+        "question": "Si tengo una curva con un corte abrupto que baja recto, ante que situacion especial me enfrento?",
+        "answer": "Un tope de compra"
+    },
+    {
+        "question": "Si la pendiente de la recta cambia en un punto, a que situacion puede estar observando?",
+        "answer": "Alguna promocion de precio por cantidad"
+    },
+    {
+        "question": "Que describe la \"funcion de utilidad\"?",
+        "answer": "describe el nivel de satisfaccion puramente personal. Le asigna un numero de felicidad a cada canasta para poder ordenarlas"
+    },
+    {
+        "question": "Que significa que las preferencias sean completas?",
+        "answer": "Que se puede elegir siempre entre dos canastas"
+    },
+    {
+        "question": "Que significa transitividad?",
+        "answer": "Si A>B y B>C -> A>C "
+    },
+    {
+        "question": "Que es la monoticdad fuerte?",
+        "answer": "mas mejor "
+    },
+    {
+        "question": "Que es la curva de indiferencia?",
+        "answer": "Curva donde se necuentran todas las canastas con el mismo nivel de utilidad"
+    },
+    {
+        "question": "Si tengo muchas curvas de indiferencia, cual es la que brinda mayor utilidad?",
+        "answer": "Aquella que se encuentre mas al noreste"
+    },
+    {
+        "question": "Como es la pendiente de las curvas de indiferencia cuando cumplen monotonicidad fuerte?",
+        "answer": "Negativa"
+    },
+    {
+        "question": "Que es la utilidad marginal decreciente?",
+        "answer": "a la cuarta hamburguesa medio que se me fueron las ganas"
+    },
+    {
+        "question": "Que es la tasa marginal de sustitucion?",
+        "answer": "Cantidad de unidades de un bien que un individuo esta dispuesto a sacrificar a cambio de una unidad adicional del otro."
+    },
+    {
+        "question": "V o F. Para que se mantenga constante el nivel de utilidad es necesario que la utilidad generada por la unidad adicional de x se compense con lo que sacrificamos de y.",
+        "answer": "Verdadero!!"
+    },
+    {
+        "question": "Que es un sutituto perfecto?",
+        "answer": "Un bien que tenga la misma utilidad que otro"
+    },
+    {
+        "question": "que son los bienes complementarios perfectos?",
+        "answer": "bienes que se venden juntos. Ej: zapatos"
+    },
+    {
+        "question": "Cuando a un consumidor le es indiferente consumir un bien \"malo\"?",
+        "answer": "Cuando es consumido junto a un bien bueno cuyo nivel de utilidad compensa el del malo. Ej:Comida de Rappi > Bolsa molesta de Rapi"
+    },
+    {
+        "question": "En que se basa la eleccion del individuo se basa en maximizar su utilidad sujeto a la restriccion presupuestaria",
+        "answer": "Maximizar su utilidad"
+    },
+    {
+        "question": "Que pasa cuando la TMT == TMS?",
+        "answer": "Se maximiza la utilidad"
+    },
+    {
+        "question": "Que indica una curva muy pronunciada?",
+        "answer": "preferencia por un bien"
+    },
+    {
+        "question": "Que se debe hacer cuand el TMS supera al TMT?",
+        "answer": "Intercambiar bienes hasta que se igualen"
+    },
+    {
+        "question": "Como construimos la demanda del mercado?",
+        "answer": "Sumando las cantidades demandadas individuales para cada precio"
+    },
+    {
+        "question": "Que muestra la Curva de Demanda?",
+        "answer": "Muestra la max cantidad que los consumidores estan dispuestas a comprar para cada bien y los maximos precion a pagar por cada cantidad de bienes"
+    },
+    {
+        "question": "Nombra que afecta la demanda",
+        "answer": "Ingreso, precio de sustitutos, precio de complementarios, numero de compradore, gustos y preferencias de consumidores, shocks externos"
+    },
+    {
+        "question": "Que pasa si aumennta el preico de un bien?",
+        "answer": "Disminuye la cantidad demandada"
+    },
+    {
+        "question": "Que pasa si aumento el precio de un bien complementario?",
+        "answer": "Cae la demanda del bien main"
+    },
+    {
+        "question": "Bajo que factor se puede enmarcar la pandemia en su efecto contra la demanda?",
+        "answer": "Shock externo"
+    },
+    {
+        "question": "V.F -> La empresas siempre intentan maximizar beneficio economico",
+        "answer": "Verdadero"
+    },
+    {
+        "question": "Que es el beneficio contable?",
+        "answer": "Es la diferencia entre los ingresos obtenidos y los gastos incurridos"
+    },
+    {
+        "question": "Cual es la diferencia entre beneficio contable y economico?",
+        "answer": "Que el economico tambien incluye los costos de oprtunidad"
+    },
+    {
+        "question": "De que nos sirve el beneficio Economico?",
+        "answer": "Nos dice si es rentable invertir en algo"
+    },
+    {
+        "question": "Que es el beneficio marginal?",
+        "answer": "El beneficio marginal hace referencia a cuanto aumenta el beneficio de la empresa cuando la produccion crece en una unidad"
+    },
+    {
+        "question": "Que es el ingreso mariginal?",
+        "answer": "Es el total adicional que se obtiene al vender una unidad mas"
+    },
+    {
+        "question": "Que es el costo marginal?",
+        "answer": "El costo de producir una unidad mas"
+    },
+    {
+        "question": "Que puede determinar mi decision de producir mas o menos bienes?",
+        "answer": "Condiciones de demanda, Caracteristicas del mercado, Costo de produccion"
+    },
+    {
+        "question": "A que se lo denomina Insumo?",
+        "answer": "Bien necesario para producir otro"
+    },
+    {
+        "question": "En que se puede descomponer el Costo Total?",
+        "answer": "En costos fijos y variables"
+    },
+    {
+        "question": "Cual es la diferencia entre costos variables y costos fijos?",
+        "answer": "Los Costos Variables dependen de la cantidad que produzcco"
+    },
+    {
+        "comment": "ACA ARRANCAN LAS DE GPT",
+        "question": "\u00bfC\u00f3mo definen los autores la econom\u00eda en el cap\u00edtulo 1?",
+        "answer": "La econom\u00eda se define como el uso eficiente de recursos escasos para satisfacer necesidades ilimitadas."
+    },
+    {
+        "question": "\u00bfQu\u00e9 funciones realiza un economista?",
+        "answer": "Un economista analiza, explica y predice la asignaci\u00f3n de recursos, evaluando c\u00f3mo se toman decisiones en producci\u00f3n y consumo."
+    },
+    {
+        "question": "\u00bfQu\u00e9 es un modelo econ\u00f3mico?",
+        "answer": "Es una representaci\u00f3n simplificada de la realidad que permite comprender y predecir comportamientos econ\u00f3micos."
+    },
+    {
+        "question": "\u00bfEn qu\u00e9 se diferencian la econom\u00eda positiva y la normativa?",
+        "answer": "La econom\u00eda positiva describe hechos y relaciones en la realidad, mientras que la normativa emite juicios sobre lo que deber\u00eda ser."
+    },
+    {
+        "question": "\u00bfQu\u00e9 diferencia existe entre equilibrio parcial y equilibrio general?",
+        "answer": "El equilibrio parcial se analiza en un solo mercado, mientras que el equilibrio general considera las interrelaciones entre m\u00faltiples mercados."
+    },
+    {
+        "question": "\u00bfCu\u00e1l es la funci\u00f3n de los gr\u00e1ficos en el an\u00e1lisis econ\u00f3mico?",
+        "answer": "Los gr\u00e1ficos permiten visualizar y comprender relaciones te\u00f3ricas y emp\u00edricas, facilitando la interpretaci\u00f3n de datos."
+    },
+    {
+        "question": "\u00bfQu\u00e9 diferencia hay entre gr\u00e1ficos te\u00f3ricos y emp\u00edricos?",
+        "answer": "Los gr\u00e1ficos te\u00f3ricos ilustran conceptos abstractos, mientras que los emp\u00edricos muestran datos reales y observados."
+    },
+    {
+        "question": "\u00bfPor qu\u00e9 es importante identificar problemas en los datos?",
+        "answer": "Identificar problemas ayuda a reconocer errores o sesgos, mejorando la validez y la interpretaci\u00f3n del an\u00e1lisis."
+    },
+    {
+        "question": "\u00bfQu\u00e9 se debe considerar al presentar datos en un gr\u00e1fico?",
+        "answer": "Es fundamental presentarlos de forma clara y precisa, resaltando relaciones, tendencias y evitando confusiones."
+    },
+    {
+        "question": "\u00bfQu\u00e9 es una falacia en el contexto del razonamiento econ\u00f3mico?",
+        "answer": "Es un error l\u00f3gico que conduce a conclusiones err\u00f3neas al fallar en la correcta relaci\u00f3n entre causa y efecto."
+    },
+    {
+        "question": "\u00bfQu\u00e9 implica la 'negaci\u00f3n del antecedente'?",
+        "answer": "Es asumir que la ausencia de una causa implica necesariamente la ausencia de su efecto, lo cual es un error l\u00f3gico."
+    },
+    {
+        "question": "\u00bfEn qu\u00e9 consiste la 'afirmaci\u00f3n del consecuente'?",
+        "answer": "Es el error de asumir que, dado que se observa un efecto, debe haberse producido una causa espec\u00edfica."
+    },
+    {
+        "question": "\u00bfQu\u00e9 es la falacia de la composici\u00f3n?",
+        "answer": "Consiste en asumir que lo que es cierto para las partes es necesariamente cierto para el todo."
+    },
+    {
+        "question": "\u00bfC\u00f3mo afectan las falacias al an\u00e1lisis econ\u00f3mico?",
+        "answer": "Distorsionan el razonamiento y pueden llevar a conclusiones poco fundamentadas o err\u00f3neas."
+    },
+    {
+        "question": "\u00bfQu\u00e9 es la econometr\u00eda seg\u00fan el cap\u00edtulo 4?",
+        "answer": "Es la aplicaci\u00f3n de m\u00e9todos estad\u00edsticos para probar teor\u00edas y estimar relaciones econ\u00f3micas."
+    },
+    {
+        "question": "\u00bfQu\u00e9 problemas pueden surgir por la omisi\u00f3n de variables relevantes?",
+        "answer": "La omisi\u00f3n de variables puede sesgar los resultados y conducir a interpretaciones err\u00f3neas de las relaciones causales."
+    },
+    {
+        "question": "\u00bfC\u00f3mo se aborda el problema de la causalidad en econometr\u00eda?",
+        "answer": "Se emplean estrategias experimentales y cuasiexperimentales para identificar y aislar relaciones causales."
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el objetivo principal de testear hip\u00f3tesis en econom\u00eda?",
+        "answer": "Validar teor\u00edas y comprender de forma emp\u00edrica las relaciones entre variables econ\u00f3micas."
+    },
+    {
+        "question": "\u00bfQu\u00e9 diferencia existe entre un experimento y un cuasiexperimento?",
+        "answer": "Un experimento cuenta con asignaci\u00f3n aleatoria, mientras que un cuasiexperimento se basa en situaciones naturales o pol\u00edticas sin asignaci\u00f3n aleatoria."
+    },
+    {
+        "question": "\u00bfQu\u00e9 significa 'trade-off' en econom\u00eda?",
+        "answer": "Implica que al elegir una opci\u00f3n, se renuncia a otra debido a la limitaci\u00f3n de recursos."
+    },
+    {
+        "question": "\u00bfC\u00f3mo se relaciona la escasez con la elecci\u00f3n individual?",
+        "answer": "La escasez obliga a priorizar alternativas, haciendo que cada decisi\u00f3n implique un sacrificio."
+    },
+    {
+        "question": "\u00bfPor qu\u00e9 es fundamental entender los trade-offs en la toma de decisiones?",
+        "answer": "Porque permite evaluar correctamente las implicancias y beneficios de cada opci\u00f3n frente a los recursos limitados."
+    },
+    {
+        "question": "\u00bfQu\u00e9 es la restricci\u00f3n presupuestaria?",
+        "answer": "Es la limitaci\u00f3n que enfrentan los consumidores por sus ingresos y los precios de los bienes, determinando sus opciones de consumo."
+    },
+    {
+        "question": "\u00bfQu\u00e9 representa la ecuaci\u00f3n de la restricci\u00f3n presupuestaria?",
+        "answer": "Relaci\u00f3n entre el ingreso disponible, los precios de los bienes y las cantidades que se pueden adquirir."
+    },
+    {
+        "question": "\u00bfC\u00f3mo afecta un cambio en el precio de un bien a la restricci\u00f3n presupuestaria?",
+        "answer": "Modifica la pendiente de la restricci\u00f3n, alterando las cantidades m\u00e1ximas que se pueden consumir."
+    },
+    {
+        "question": "\u00bfQu\u00e9 sucede cuando var\u00eda el ingreso del consumidor?",
+        "answer": "La restricci\u00f3n presupuestaria se desplaza, ampliando o reduciendo las posibilidades de consumo."
+    },
+    {
+        "question": "\u00bfQu\u00e9 es la funci\u00f3n de utilidad?",
+        "answer": "Es una representaci\u00f3n num\u00e9rica que refleja las preferencias del consumidor respecto a diferentes combinaciones de bienes."
+    },
+    {
+        "question": "\u00bfQu\u00e9 representan las curvas de indiferencia?",
+        "answer": "Son gr\u00e1ficos que muestran todas las combinaciones de bienes que proporcionan el mismo nivel de satisfacci\u00f3n al consumidor."
+    },
+    {
+        "question": "\u00bfC\u00f3mo se relaciona la completitud de las preferencias con la utilidad?",
+        "answer": "Permite asignar un orden a todas las combinaciones de bienes, facilitando la medici\u00f3n y comparaci\u00f3n de la utilidad."
+    },
+    {
+        "question": "\u00bfC\u00f3mo decide el consumidor seg\u00fan el cap\u00edtulo 8?",
+        "answer": "Elige la canasta que maximiza su utilidad, dados sus ingresos y los precios de los bienes."
+    },
+    {
+        "question": "\u00bfQu\u00e9 son los efectos ingreso y sustituci\u00f3n?",
+        "answer": "El efecto ingreso refleja cambios en la demanda por variaciones en el poder adquisitivo, mientras que el efecto sustituci\u00f3n se debe a cambios en los precios relativos de los bienes."
+    },
+    {
+        "question": "\u00bfQu\u00e9 representa la curva de demanda individual?",
+        "answer": "La relaci\u00f3n entre el precio de un bien y la cantidad que un consumidor est\u00e1 dispuesto a comprar."
+    },
+    {
+        "question": "\u00bfC\u00f3mo responde el consumidor a un shock de ingreso?",
+        "answer": "Ajusta su elecci\u00f3n de consumo para maximizar la utilidad bajo la nueva restricci\u00f3n presupuestaria."
+    },
+    {
+        "question": "\u00bfQu\u00e9 impacto tiene un cambio en el precio de un bien sobre la demanda individual?",
+        "answer": "Modifica la cantidad demandada mediante la combinaci\u00f3n de los efectos sustituci\u00f3n e ingreso."
+    },
+    {
+        "question": "\u00bfQu\u00e9 implica el problema consumo-ocio?",
+        "answer": "Es la decisi\u00f3n de c\u00f3mo distribuir el tiempo entre trabajo (que genera ingresos) y ocio (que brinda satisfacci\u00f3n directa)."
+    },
+    {
+        "question": "\u00bfC\u00f3mo se determina el equilibrio en el problema consumo-ocio?",
+        "answer": "Mediante la maximizaci\u00f3n de la utilidad, encontrando el balance \u00f3ptimo entre el disfrute del ocio y el consumo financiado por el trabajo."
+    },
+    {
+        "question": "\u00bfQu\u00e9 efecto tiene un aumento en el salario sobre la decisi\u00f3n de ocio?",
+        "answer": "Puede incentivar a trabajar m\u00e1s (efecto sustituci\u00f3n) o a trabajar menos (efecto ingreso), seg\u00fan la situaci\u00f3n del individuo."
+    },
+    {
+        "question": "\u00bfC\u00f3mo se descompone el efecto total de un cambio en el salario?",
+        "answer": "En el efecto sustituci\u00f3n, que incita a trabajar m\u00e1s, y el efecto ingreso, que puede llevar a disfrutar de m\u00e1s ocio."
+    },
+    {
+        "question": "\u00bfQu\u00e9 sorpresa se discute acerca de la oferta de trabajo a largo plazo?",
+        "answer": "Que la relaci\u00f3n entre el salario y las horas trabajadas puede invertirse, evidenciando la complejidad de las decisiones laborales."
+    },
+    {
+        "question": "\u00bfC\u00f3mo se pasa de la curva de demanda individual a la curva de demanda del mercado?",
+        "answer": "Agregando las demandas individuales de todos los consumidores que participan en el mercado."
+    },
+    {
+        "question": "\u00bfQu\u00e9 factores afectan la funci\u00f3n de demanda?",
+        "answer": "El precio, ingreso, gustos, expectativas y precios de bienes sustitutos o complementarios."
+    },
+    {
+        "question": "\u00bfQu\u00e9 representa la curva de demanda de mercado?",
+        "answer": "La relaci\u00f3n entre el precio de un bien y la cantidad total demandada por todos los consumidores."
+    },
+    {
+        "question": "\u00bfPor qu\u00e9 es importante entender la construcci\u00f3n de la demanda?",
+        "answer": "Porque permite analizar c\u00f3mo reaccionar\u00e1 el mercado ante cambios en variables econ\u00f3micas y de comportamiento."
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el objetivo principal de una empresa seg\u00fan el cap\u00edtulo 11?",
+        "answer": "Maximizar el beneficio econ\u00f3mico."
+    },
+    {
+        "question": "\u00bfQu\u00e9 decisiones toma la empresa para alcanzar su objetivo?",
+        "answer": "Decide sobre producci\u00f3n, precios y asignaci\u00f3n de recursos, buscando siempre la opci\u00f3n que genere mayores beneficios."
+    },
+    {
+        "question": "\u00bfC\u00f3mo se determinan los incentivos internos en la empresa?",
+        "answer": "Comparando los costos y beneficios de diversas alternativas productivas para optimizar la toma de decisiones."
+    },
+    {
+        "question": "\u00bfQu\u00e9 es la funci\u00f3n de producci\u00f3n?",
+        "answer": "Es la relaci\u00f3n que muestra c\u00f3mo se transforman los insumos en output o productos."
+    },
+    {
+        "question": "\u00bfCu\u00e1l es la diferencia entre producto medio y producto marginal?",
+        "answer": "El producto medio es la producci\u00f3n por unidad de insumo, mientras que el marginal es el incremento en producci\u00f3n al agregar una unidad extra de insumo."
+    },
+    {
+        "question": "\u00bfC\u00f3mo se caracteriza la funci\u00f3n de producci\u00f3n en el corto plazo?",
+        "answer": "Presenta rendimientos variables y se observa la ley de rendimientos decrecientes al aumentar los insumos."
+    },
+    {
+        "question": "\u00bfQu\u00e9 sucede en el largo plazo seg\u00fan el an\u00e1lisis de la producci\u00f3n?",
+        "answer": "Las empresas pueden ajustar todos sus insumos, modificando la escala de producci\u00f3n y mejorando la eficiencia."
+    },
+    {
+        "question": "\u00bfQu\u00e9 diferencia existe entre costo fijo y costo variable?",
+        "answer": "El costo fijo no var\u00eda con el nivel de producci\u00f3n, mientras que el costo variable aumenta o disminuye conforme se produce m\u00e1s o menos."
+    },
+    {
+        "question": "\u00bfC\u00f3mo se calcula el costo medio total?",
+        "answer": "Dividiendo el costo total entre la cantidad de unidades producidas."
+    },
+    {
+        "question": "\u00bfQu\u00e9 indica la estructura de costos de corto plazo?",
+        "answer": "La interacci\u00f3n entre costos fijos y variables y su influencia en la producci\u00f3n en el corto plazo."
+    },
+    {
+        "question": "\u00bfQu\u00e9 se analiza en la estructura de costos a largo plazo?",
+        "answer": "La capacidad de ajustar todos los insumos y la escala de producci\u00f3n para alcanzar eficiencia en costos."
+    },
+    {
+        "question": "\u00bfC\u00f3mo se construye la curva de oferta del mercado?",
+        "answer": "Agregando las curvas de oferta individuales de todas las empresas que participan en el mercado."
+    },
+    {
+        "question": "\u00bfQu\u00e9 factores pueden afectar la funci\u00f3n de oferta?",
+        "answer": "Los costos de producci\u00f3n, avances tecnol\u00f3gicos, precios de insumos y pol\u00edticas regulatorias."
+    },
+    {
+        "question": "\u00bfQu\u00e9 papel juega la oferta individual en la determinaci\u00f3n del mercado?",
+        "answer": "Cada empresa ajusta su oferta seg\u00fan sus condiciones, y en conjunto determinan la oferta global del mercado."
+    },
+    {
+        "question": "\u00bfQu\u00e9 es el equilibrio de mercado?",
+        "answer": "Es el punto en que la cantidad demandada iguala a la cantidad ofrecida, determinando un precio de equilibrio."
+    },
+    {
+        "question": "\u00bfC\u00f3mo se alcanza el equilibrio en el mercado?",
+        "answer": "A trav\u00e9s de la interacci\u00f3n entre oferta y demanda, que ajusta precios y cantidades hasta que se igualan."
+    },
+    {
+        "question": "\u00bfQu\u00e9 ocurre cuando se produce un cambio en el equilibrio?",
+        "answer": "Se generan desequilibrios temporales que, al ajustar precios, llevan al mercado a un nuevo equilibrio."
+    },
+    {
+        "question": "\u00bfQu\u00e9 mide la elasticidad precio de la demanda?",
+        "answer": "La sensibilidad de la cantidad demandada ante cambios en el precio de un bien."
+    },
+    {
+        "question": "\u00bfCu\u00e1les son los factores que determinan la elasticidad de la demanda?",
+        "answer": "La disponibilidad de sustitutos, la proporci\u00f3n del ingreso gastada en el bien y el horizonte temporal de ajuste."
+    },
+    {
+        "question": "\u00bfQu\u00e9 es la elasticidad punto medio?",
+        "answer": "Una medida que utiliza promedios de precios y cantidades para calcular la elasticidad de forma m\u00e1s precisa."
+    },
+    {
+        "question": "\u00bfQu\u00e9 se entiende por elasticidad precio de la oferta?",
+        "answer": "La respuesta de la cantidad ofrecida ante variaciones en el precio del bien."
+    },
+    {
+        "question": "\u00bfQu\u00e9 diferencia hay entre elasticidad ingreso y elasticidad cruzada?",
+        "answer": "La elasticidad ingreso mide c\u00f3mo var\u00eda la demanda ante cambios en el ingreso, mientras que la elasticidad cruzada analiza la relaci\u00f3n entre dos bienes (sustitutos o complementarios)."
+    },
+    {
+        "question": "\u00bfCu\u00e1l es la funci\u00f3n del mercado en la asignaci\u00f3n de recursos?",
+        "answer": "Distribuye los recursos de manera eficiente mediante el mecanismo de precios basado en la oferta y la demanda."
+    },
+    {
+        "question": "\u00bfQu\u00e9 ventaja tiene el sistema de mercado frente a la planificaci\u00f3n centralizada?",
+        "answer": "Su capacidad para adaptarse de forma descentralizada a las preferencias y cambios del entorno, asignando recursos de manera m\u00e1s eficiente."
+    },
+    {
+        "question": "\u00bfQu\u00e9 representa la eficiencia de mercado en t\u00e9rminos gr\u00e1ficos?",
+        "answer": "La intersecci\u00f3n de las curvas de oferta y demanda, que maximiza el bienestar social al igualar costos y beneficios."
+    },
+    {
+        "question": "\u00bfQu\u00e9 es la caja de Edgeworth?",
+        "answer": "Una herramienta gr\u00e1fica que ilustra las posibles asignaciones eficientes entre dos agentes econ\u00f3micos."
+    },
+    {
+        "question": "\u00bfQu\u00e9 significa tener ventaja comparativa?",
+        "answer": "Es la capacidad de producir un bien a un costo de oportunidad menor en comparaci\u00f3n con otros productores o pa\u00edses."
+    },
+    {
+        "question": "\u00bfQu\u00e9 ilustra el modelo ricardiano simple?",
+        "answer": "Que, mediante la especializaci\u00f3n y el intercambio, todos los participantes pueden beneficiarse del comercio, aun cuando uno sea menos eficiente en todos los productos."
+    },
+    {
+        "question": "\u00bfCu\u00e1les son los beneficios de la especializaci\u00f3n en el comercio?",
+        "answer": "Permite a cada pa\u00eds concentrarse en lo que produce mejor, incrementando la eficiencia y el bienestar global a trav\u00e9s de un intercambio mutuamente beneficioso."
+    },
+    {
+        "question": "\u00bfC\u00f3mo se relaciona la globalizaci\u00f3n con las ganancias del comercio?",
+        "answer": "La globalizaci\u00f3n ampl\u00eda los mercados y las oportunidades de especializaci\u00f3n, aumentando los beneficios del intercambio comercial entre pa\u00edses."
+    },
+    {
+        "question": "V o F. En un mercado de competencia perfecta los empresas son fijadoras de precio.",
+        "answer": "FALSO. En un mercado de competencia perfecta las empresas no tienen poder para fijar precios. Si se hacen los cancheros subiendo el precio no les compra nada"
+    },
+    {
+        "question": "Alrededor de que punto venden las empresas sus productos en um mercado de competencia perfecta?",
+        "answer": "Alrededor del punto de equilibrio"
+    },
+    {
+        "question": "Como es la curva de ingresos de una empresa en competencia perfecta?",
+        "answer": "Recta con pendiente positiva"
+    },
+    {
+        "question": "Como mejoran sus beneficios las empresas en un mercado de competencia perfecta?",
+        "answer": "Reduciendo sus costos"
+    },
+    {
+        "question": "Cuando maximiza sus beneficios las empresas en una competencia perfecta?",
+        "answer": "Al corto plazo cuando el ingreso marginal se iguala al costo marginal"
+    },
+    {
+        "question": "Cuando produce una cantidad positiva una empresa en una competencia perfecta?",
+        "answer": "Cuando el precio de mercado supera al costo medio variable en donde maximiza su beneficio"
+    },
+    {
+        "question": "Describir que pasa al largo plazo en una competencia perfecta",
+        "answer": "No hay beneficios economicos para niguna empresa. Hay un estado de ultra-eficiencia pro-consumidor."
+    },
+    {
+        "question": "Que se entiende como beneficio extraordinario?",
+        "answer": "A la ganancia a corto plazo de las empresas en competencia perfecta. Cuando la rentabilidad esta por encima de la tasa de retorno normal."
+    },
+    {
+        "question": "En una competencia perfecta. Que le pasa a una empresa cuando llegan nuevos competidores?",
+        "answer": "Ve como va teniendo cada vez menos beneficio extraordinario y debe producir menos"
+    },
+    {
+        "question": "V o F. Si en un mercado de competencia perfecta de la nada a todos los consumidores les aumentan el sueldo, van a integrarse nuevas empresas",
+        "answer": "Verdadero!!"
+    },
+    {
+        "question": "Que es el \"spread\"?",
+        "answer": "La diferencia entre compra y venta de un bien? (este es medio especifico)"
+    },
+    {
+        "question": "V o F. Los mercados competitivos son buena onda",
+        "answer": "V"
+    }
+]
