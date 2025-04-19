@@ -531,5 +531,13 @@
     {
         "question": "V o F. Los mercados competitivos son buena onda",
         "answer": "V"
+    },
+    {
+        "question": "Porque las curvas de indiferencias son convexas?",
+        "answer": "Porque los consumidores tienden a elegir canastas equilibradas en lugar de extremos por la ley de utilidad marginal decreciente. Esto no aplica para bienes complementarios perfectos. "
+    },
+    {
+        "question": "Cuales son los supuestos de la curva de utilidad?",
+        "answer": "Completitud, transitividad y monotonicidad"
     }
 ]
